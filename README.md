@@ -620,5 +620,9 @@
 <span class="c9">End</span>
 
 
+
+# <span class="c62">Resources</span>
+
+###### <span class="c37 c27">Cividjian, N. (2017). Pervasive computing: engineering smart systems. Amsterdam, The Netherlands: Springer.</span>
 * * *
 
