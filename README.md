@@ -4,7 +4,7 @@
 
 ## <span style="overflow: hidden; display: block; margin-left: auto; margin-right: auto; width: 50%; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);width: 208.00px; height: 208.00px;">![](images/image16.png)</span>
 
-##### <span class="c40 c35">NAMES:</span>
+### <span class="c40 c35">NAMES:</span>
 
 * <span class="c24 c27">Boipelo Hlatshwayo</span> 
 
@@ -264,7 +264,7 @@
 
 *   ## <span class="c20">Performance Classifier</span>
 
-<span class="c67">Confusion Matrix</span>
+*   ##### <span class="c67">Confusion Matrix</span>
 
 <span class="c18"></span>
 
