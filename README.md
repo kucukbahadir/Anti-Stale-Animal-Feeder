@@ -8,20 +8,25 @@
 
 </div>
 
-<span class="c75 c97 c107">Project</span><span class="c55"> Report</span><span class="c87">  
-</span><span class="c75">Anti-Stale Animal Feeder</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 208.00px; height: 208.00px;">![](images/image16.png)</span>
+<span class="c75 c97 c107">Project Report</span>
+
+
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 208.00px; height: 208.00px;">![](images/image16.png)</span>
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 47.00px; height: 6.00px;">![](images/image8.png "short line")</span>
 
-<span class="c24 c27">Boipelo Hlatshwayo, 2660806</span> <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 624.00px; height: 185.33px;">![](images/image13.png)</span>
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 624.00px; height: 185.33px;">![](images/image13.png)</span>
+<span class="c40 c35">NAMES:</span>
 
-<span class="c24 c27">M. Bahadir Kucuk,     2668015</span>
+<span class="c24 c27">Boipelo Hlatshwayo</span> 
 
-<span class="c27">Necmettin Calibasi,  2668338</span>
+<span class="c24 c27">M. Bahadir Kucuk</span>
+
+<span class="c27">Necmettin Calibasi</span>
 
 <span class="c29 c98 c99"></span>
 
-<span class="c99 c97">15</span><span class="c84 c98 c99 c97">th December, 2019</span>
+<span class="c84 c98 c99 c97">15th December, 2019</span>
 
 <span class="c71"></span>
 
@@ -29,21 +34,17 @@
 
 <span class="c82">Table of Contents</span>
 
-<span class="c91">Introduction</span><span class="c109">        </span><span class="c26">2</span>
+<span class="c91">Introduction</span><span class="c109"> 
 
-<span class="c26">[Literature Study](#h.84p8h3zhs022)</span><span class="c26">        </span><span class="c26">[3](#h.84p8h3zhs022)</span>
+<span class="c26">[Literature Study](#h.84p8h3zhs022)</span><span class="c26">        </span>
+<span class="c26">[Concept of Operations](#h.x49zvbqgmufv)</span><span class="c26">        </span>
+<span class="c21">[Product Mission Statement](#h.qh2rm9yo5rth)</span><span class="c21">        </span>
 
-<span class="c26">[Concept of Operations](#h.x49zvbqgmufv)</span><span class="c26">        </span><span class="c26">[4](#h.x49zvbqgmufv)</span>
+<span class="c21">[System Block Diagram](#h.qh2rm9yo5rth)</span><span class="c21">        </span>
 
-<span class="c21">[Product Mission Statement](#h.qh2rm9yo5rth)</span><span class="c21">        </span><span class="c21">[4](#h.qh2rm9yo5rth)</span>
-
-<span class="c21">[System Block Diagram](#h.qh2rm9yo5rth)</span><span class="c21">        </span><span class="c21">[4](#h.qh2rm9yo5rth)</span>
-
-<span class="c21">[User Scenarios](#h.qh2rm9yo5rth)</span><span class="c21">        </span><span class="c21">[5](#h.qh2rm9yo5rth)</span>
-
-<span class="c21">[Use Case Diagram](#h.qh2rm9yo5rth)</span><span class="c21">        </span><span class="c21">[6](#h.qh2rm9yo5rth)</span>
-
-<span class="c26">[System Requirements](#h.74912atupdet)</span><span class="c26">        </span><span class="c26">[6](#h.74912atupdet)</span>
+<span class="c21">[User Scenarios](#h.qh2rm9yo5rth)</span><span class="c21">        </span>
+<span class="c21">[Use Case Diagram](#h.qh2rm9yo5rth)</span><span class="c21">        </span>
+<span class="c26">[System Requirements](#h.74912atupdet)</span><span class="c26">        </span>
 
 <span class="c21">[Functional Requirements](#h.sc02592okb0h)</span><span class="c21">        </span><span class="c21">[6](#h.sc02592okb0h)</span>
 
