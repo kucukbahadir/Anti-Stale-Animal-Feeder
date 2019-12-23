@@ -629,21 +629,3 @@
 
 * * *
 
-
-
-<div>
-
-[[1]]<a class="c52"> </span><span class="c69 c25">[1](http://bit.ly/2YO56DH)</a><span class="c25"> </span>
-
-</div>
-
-<div>
-
-[[2]]<span class="c52"> </span><span class="c69 c19">[http://bit.ly/2YRUNOP](https://www.google.com/url?q=http://bit.ly/2YRUNOP&sa=D&ust=1577109197917000)</span>
-
-</div>
-
-<div>
-[[3]]<span class="c52"> </span><span class="c52 c69">[http://bit.ly/2RSyOG4](https://www.google.com/url?q=http://bit.ly/2RSyOG4&sa=D&ust=1577109197918000)</span><span class="c22"> </span>
-
-</div>
