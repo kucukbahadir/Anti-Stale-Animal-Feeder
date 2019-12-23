@@ -22,7 +22,7 @@
 
 
 
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 624.00px; height: 185.33px;">![](images/image13.png)</span>
+<span style="overflow: hidden; display: block; margin-right: auto; margin-left: auto; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 624.00px; height: 185.33px;">![](images/image13.png)</span>
 
 
 <span class="c29 c98 c99"></span>
@@ -70,8 +70,6 @@
 * <span class="c26">Testing</span><span class="c26">        </span><span class="c26"></span>
   * <span class="c21">Performance Classifier</span><span class="c21">        </span><span class="c21"></span>
   * <span class="c21">Performance Algorithm</span><span class="c21">        </span><span class="c21"></span>
-
-* <span class="c26">Project Demo</span><span class="c26">        </span><span class="c26"></span>
 
 * <span class="c26">Evaluation</span><span class="c26">        </span><span class="c26"></span>
   * <span class="c21">Reflection</span><span class="c21">        </span><span class="c21"></span>
@@ -387,17 +385,12 @@
 
 <span class="c6">The main issue in the performance of the classifier is based on how foods are scattered in the bowl before taking an image of it. If the foods are separately scattered, then image processing works well based on the testing result. The accuracy rate cannot be determined because of the complex system.</span>
 
-<span class="c25">The testing videos can be reached by this link</span><sup class="c25">[[1]](#ftnt1)</sup><span class="c6">.</span>
 
 ## <span class="c20">Performance Algorithm</span>
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: auto; height: auto;">![](images/image17.png)</span>
 
 <span class="c1"></span>
-
-# <span class="c62">Project Demo</span>
-
-<span>The demo of the project can be reached by this link</span><sup>[[2]](#ftnt2)</sup><span>.</span>
 
 # <span class="c62">Evaluation</span>
 
