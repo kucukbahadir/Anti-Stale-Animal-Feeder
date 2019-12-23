@@ -1,7 +1,7 @@
 
 # <span class="c75 c97 c107">Project Report</span>
 
-<span style="overflow: hidden; display: block; margin-left: auto; margin-right: auto; width: 50%; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);width: 208.00px; height: 208.00px;">![](images/image16.png)</span>
+<span style="overflow: hidden; display: block; width: 50%; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);width: 208.00px; height: 208.00px;">![](images/image16.png)</span>
 
 ### <span class="c40 c35">NAMES:</span>
 
@@ -391,7 +391,7 @@
 
 ## <span class="c20">Performance Algorithm</span>
 
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 621.42px; height: 413.17px;">![](images/image17.png)</span>
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: auto; height: auto;">![](images/image17.png)</span>
 
 <span class="c1"></span>
 
