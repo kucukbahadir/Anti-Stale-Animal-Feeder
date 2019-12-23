@@ -1,5 +1,5 @@
 
-<span class="c75 c97 c107">Project Report</span>
+## <span class="c75 c97 c107">Project Report</span>
 
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 208.00px; height: 208.00px;">![](images/image16.png)</span>
@@ -8,7 +8,7 @@
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 624.00px; height: 185.33px;">![](images/image13.png)</span>
 
-<span class="c40 c35">NAMES:</span>
+#### <span class="c40 c35">NAMES:</span>
 
 * <span class="c24 c27">Boipelo Hlatshwayo</span> 
 
@@ -17,9 +17,11 @@
 * <span class="c27">* Necmettin Calibasi</span>
 
 <span class="c29 c98 c99"></span>
+<span class="c29 c98 c99"></span>
 
-<span class="c84 c98 c99 c97">15th December, 2019</span>
+** <span class="c84 c98 c99 c97">15th December, 2019</span> **
 
+<span class="c29 c98 c99"></span>
 <span class="c71"></span>
 
 <span class="c84 c98 c106"></span>
@@ -31,50 +33,45 @@
 * <span class="c26">Literature Study</span><span class="c26">        </span>
 * <span class="c26">Concept of Operations</span><span class="c26">        </span>
 * <span class="c21">Product Mission Statement</span><span class="c21">        </span>
+  * <span class="c21">System Block Diagram</span><span class="c21">        </span>
+  * <span class="c21">User Scenarios</span><span class="c21">        </span>
+  * <span class="c21">Use Case Diagram</span><span class="c21">        </span>
 
-* <span class="c21">System Block Diagram</span><span class="c21">        </span>
+* <span class="c26">System Requirements</span><span class="c26">        </span>
 
-<span class="c21">[User Scenarios](#h.qh2rm9yo5rth)</span><span class="c21">        </span>
-<span class="c21">[Use Case Diagram](#h.qh2rm9yo5rth)</span><span class="c21">        </span>
-<span class="c26">[System Requirements](#h.74912atupdet)</span><span class="c26">        </span>
+  * <span class="c21">Functional Requirements</span><span class="c21">        </span><span class="c21"</span>
+  * <span class="c21">Non-Functional</span><span class="c21">        </span><span class="c21"></span>
+  * <span class="c21">Privacy/Safety concerns</span><span class="c21">        </span><span class="c21"></span>
+  * <span class="c21">Constraints</span><span class="c21">        </span><span class="c21">[8](#h.sc02592okb0h)</span>
 
-<span class="c21">[Functional Requirements](#h.sc02592okb0h)</span><span class="c21">        </span><span class="c21">[6](#h.sc02592okb0h)</span>
+* <span class="c91">System Design</span><span class="c109">        </span><span class="c91">9</span>
 
-<span class="c21">[Non-Functional](#h.sc02592okb0h)</span><span class="c21">        </span><span class="c21">[7](#h.sc02592okb0h)</span>
+  * <span class="c21">Components</span><span class="c21">        </span><span class="c21"></span>
 
-<span class="c21">[Privacy/Safety concerns](#h.sc02592okb0h)</span><span class="c21">        </span><span class="c21">[8](#h.sc02592okb0h)</span>
+  * <span class="c21">Type of Processing</span><span class="c21">        </span><span class="c21"></span>
 
-<span class="c21">[Constraints](#h.sc02592okb0h)</span><span class="c21">        </span><span class="c21">[8](#h.sc02592okb0h)</span>
+* <span class="c21">Classification</span><span class="c21">        </span><span class="c21"></span>
 
-<span class="c91">System Design</span><span class="c109">        </span><span class="c91">9</span>
+* <span class="c26">Testing</span><span class="c26">        </span><span class="c26"></span>
 
-<span class="c21">[Components](#h.ckkzvfpnkx4b)</span><span class="c21">        </span><span class="c21">[9](#h.ckkzvfpnkx4b)</span>
+  * <span class="c21">Performance Classifier</span><span class="c21">        </span><span class="c21">[</span>
+  * <span class="c21">Performance Algorithm</span><span class="c21">        </span><span class="c21"></span>
 
-<span class="c21">[Type of Processing](#h.hw6v8uhgae4s)</span><span class="c21">        </span><span class="c21">[9](#h.hw6v8uhgae4s)</span>
+*<span class="c26">[Project Demo](#h.wxgoiwxi5suy)</span><span class="c26">        </span><span class="c26">[12](#h.wxgoiwxi5suy)</span>
 
-<span class="c21">[Classification](#h.hbg9b07d9tyx)</span><span class="c21">        </span><span class="c21">[10](#h.hbg9b07d9tyx)</span>
+*<span class="c26">[Evaluation](#h.lmfkqg8tlvut)</span><span class="c26">        </span><span class="c26">[13](#h.lmfkqg8tlvut)</span>
 
-<span class="c26">[Testing](#h.unhbb6elph90)</span><span class="c26">        </span><span class="c26">[10](#h.unhbb6elph90)</span>
+*<span class="c21">[Reflection](#h.may5qq2qvle3)</span><span class="c21">        </span><span class="c21">[13](#h.may5qq2qvle3)</span>
 
-<span class="c21">[Performance Classifier](#h.sl94aftg5pc1)</span><span class="c21">        </span><span class="c21">[11](#h.sl94aftg5pc1)</span>
+*<span class="c21">[Risk Analysis](#h.51i4s35l62sp)</span><span class="c21">        </span><span class="c21">[14](#h.51i4s35l62sp)</span>
 
-<span class="c21">[Performance Algorithm](#h.lxjs0w55agab)</span><span class="c21">        </span><span class="c21">[12](#h.lxjs0w55agab)</span>
+*<span class="c21">[Schedule](#h.cc5p7zg2cd7o)</span><span class="c21">        </span><span class="c21">[14](#h.cc5p7zg2cd7o)</span>
 
-<span class="c26">[Project Demo](#h.wxgoiwxi5suy)</span><span class="c26">        </span><span class="c26">[12](#h.wxgoiwxi5suy)</span>
+*<span class="c21">[Task Division](#h.23r98aogzokj)</span><span class="c21">        </span><span class="c21">[15](#h.23r98aogzokj)</span>
 
-<span class="c26">[Evaluation](#h.lmfkqg8tlvut)</span><span class="c26">        </span><span class="c26">[13](#h.lmfkqg8tlvut)</span>
+*<span class="c26">[Appendix](#h.7zqfprkfwjtv)</span><span class="c26">        </span><span class="c26">[15](#h.7zqfprkfwjtv)</span>
 
-<span class="c21">[Reflection](#h.may5qq2qvle3)</span><span class="c21">        </span><span class="c21">[13](#h.may5qq2qvle3)</span>
-
-<span class="c21">[Risk Analysis](#h.51i4s35l62sp)</span><span class="c21">        </span><span class="c21">[14](#h.51i4s35l62sp)</span>
-
-<span class="c21">[Schedule](#h.cc5p7zg2cd7o)</span><span class="c21">        </span><span class="c21">[14](#h.cc5p7zg2cd7o)</span>
-
-<span class="c21">[Task Division](#h.23r98aogzokj)</span><span class="c21">        </span><span class="c21">[15](#h.23r98aogzokj)</span>
-
-<span class="c26">[Appendix](#h.7zqfprkfwjtv)</span><span class="c26">        </span><span class="c26">[15](#h.7zqfprkfwjtv)</span>
-
-<span class="c21">[Image Processing](#h.sghaa2q67adl)</span><span class="c21">        </span><span class="c21">[15](#h.sghaa2q67adl)</span>
+*<span class="c21">[Image Processing](#h.sghaa2q67adl)</span><span class="c21">        </span><span class="c21">[15](#h.sghaa2q67adl)</span>
 
 <span class="c21">[Ultrasonic Sensor](#h.nqsjebc2kqp8)</span><span class="c21">        </span><span class="c21">[21](#h.nqsjebc2kqp8)</span>
 
