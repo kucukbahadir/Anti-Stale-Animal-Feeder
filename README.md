@@ -22,6 +22,8 @@
 
 <span class="c29 c98 c99"></span>
 <span class="c71"></span>
+<span class="c29 c98 c99"></span>
+<span class="c71"></span>
 
 <span class="c84 c98 c106"></span>
 
@@ -30,14 +32,15 @@
 * <span class="c91">Introduction</span><span class="c109"> 
 
 * <span class="c26">Literature Study</span><span class="c26">        </span>
+
 * <span class="c26">Concept of Operations</span><span class="c26">        </span>
+
 * <span class="c21">Product Mission Statement</span><span class="c21">        </span>
   * <span class="c21">System Block Diagram</span><span class="c21">        </span>
   * <span class="c21">User Scenarios</span><span class="c21">        </span>
   * <span class="c21">Use Case Diagram</span><span class="c21">        </span>
 
 * <span class="c26">System Requirements</span><span class="c26">        </span>
-
   * <span class="c21">Functional Requirements</span><span class="c21">        </span><span class="c21"</span>
   * <span class="c21">Non-Functional</span><span class="c21">        </span><span class="c21"></span>
   * <span class="c21">Privacy/Safety concerns</span><span class="c21">        </span><span class="c21"></span>
@@ -52,34 +55,24 @@
 * <span class="c21">Classification</span><span class="c21">        </span><span class="c21"></span>
 
 * <span class="c26">Testing</span><span class="c26">        </span><span class="c26"></span>
-
   * <span class="c21">Performance Classifier</span><span class="c21">        </span><span class="c21"></span>
   * <span class="c21">Performance Algorithm</span><span class="c21">        </span><span class="c21"></span>
 
 * <span class="c26">Project Demo</span><span class="c26">        </span><span class="c26"></span>
 
-
 * <span class="c26">Evaluation</span><span class="c26">        </span><span class="c26"></span>
+  * <span class="c21">Reflection</span><span class="c21">        </span><span class="c21"></span>
+  * <span class="c21">Risk Analysis</span><span class="c21">        </span><span class="c21"></span>
+  * <span class="c21">Schedule</span><span class="c21">        </span><span class="c21"></span>
+  * <span class="c21">Task Division</span><span class="c21">        </span><span class="c21"></span>
 
-* <span class="c21">Reflection</span><span class="c21">        </span><span class="c21"></span>
+* <span class="c26">Appendix</span><span class="c26">        </span><span class="c26"></span>
+  * <span class="c21">Image Processing</span><span class="c21">        </span><span class="c21">[</span>
+  * <span class="c21">Ultrasonic Sensor</span><span class="c21">        </span><span class="c21"></span>
+  * <span class="c21">EV3 Motor</span><span class="c21">        </span><span class="c21"></span>
+  * <span class="c21">All System Code</span><span class="c21">        </span><span class="c21"></span>
 
-* <span class="c21">Risk Analysis</span><span class="c21">        </span><span class="c21"></span>
-
-* <span class="c21">Schedule</span><span class="c21">        </span><span class="c21"></span>
-
-*<span class="c21">Task Division</span><span class="c21">        </span><span class="c21"></span>
-
-*<span class="c26">Appendix</span><span class="c26">        </span><span class="c26">15</span>
-
-*<span class="c21">[Image Processing](#h.sghaa2q67adl)</span><span class="c21">        </span><span class="c21">[15](#h.sghaa2q67adl)</span>
-
-<span class="c21">Ultrasonic Sensor</span><span class="c21">        </span><span class="c21"></span>
-
-<span class="c21">EV3 Motor</span><span class="c21">        </span><span class="c21"></span>
-
-<span class="c21">All System Code</span><span class="c21">        </span><span class="c21"></span>
-
-<span class="c26">Resources</span><span class="c26">        </span><span class="c26"></span>
+* <span class="c26">Resources</span><span class="c26">        </span><span class="c26"></span>
 
 # <span>Introduction</span>
 
@@ -106,7 +99,7 @@
 
 <span class="c1"></span>
 
-# <span class="c82">Concept of</span> <span>O</span><span class="c82">peration</span><span>s</span>
+# <span class="c82">Concept of Operation</span><span>s</span>
 
 <span class="c24 c63"></span>
 
@@ -621,182 +614,9 @@
 
 <span class="c9">End</span>
 
-## <span class="c20">Image Processing</span>
 
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 462.00px; height: 55.00px;">![](images/image2.png)</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 251.67px; height: 293.17px;">![](images/image11.jpg)</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 386.80px; height: 293.00px;">![](images/image7.png)</span>
 
-<span class="c19">The first thing to take a shot and convert the image to the binary image. Having that, we can able to make a classification between the foods and the background. The number of food items is 10\. While calculating the area we call it as "stat".</span>
 
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 542.00px; height: 145.00px;">![](images/image14.png)</span>
-
-<span class="c24 c19">The code snippet above is to sum the area of each stats.</span>
-
-<span class="c24 c19">In each step the total area is shown for the control whether it calculates each area.This is just for now to see what happens.</span>
-
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 461.00px; height: 74.00px;">![](images/image12.png)</span>
-
-<span class="c19">After seeing that the code works well and sums each stat (in this photo the number of stats is 10),  the "</span><span class="c19">disp</span><span class="c24 c19">" part is deleted from the code.</span>
-
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 551.00px; height: 132.00px;">![](images/image15.png)</span>
-
-<span class="c24 c50"></span>
-
-<span class="c50"> </span>
-
-<span class="c24 c68">*************  Code for Image Processing to Calculate Area **************</span>
-
-<span class="c29 c19"></span>
-
-<span class="c9">function total_area = food_image_processing(path)</span>
-
-<span class="c29 c19"> </span>
-
-<span class="c9">image = imread(path);</span><span class="c19 c48"> </span><span class="c7">% it reads the image by given path</span>
-
-<span class="c9">imshow(image);</span><span class="c19 c48"> </span><span class="c7">% to see what we obtain from the bowl</span>
-
-<span class="c7"></span>
-
-<span class="c9">imwrite (image,"objects.bmp","bmp");</span><span class="c19 c48"> </span><span class="c19 c44">% it changes the extension of the image</span>
-
-<span class="c29 c19">   </span>
-
-<span class="c9">image_grey=rgb2gray(image);</span><span class="c7"> % we are interested in the area not colour.</span>
-
-<span class="c9">level=graythresh(image_grey);</span><span class="c7"> % calculates the threshold by using the Otsu method</span>
-
-<span class="c3">image_grey_threshold= im2bw(image_grey,level);</span>
-
-<span class="c19 c29">   </span>
-
-<span class="c9">image2=imopen(image_grey_threshold,strel('disk',1));</span><span class="c19 c48"> </span><span class="c7">% to eliminate small white holes</span>
-
-<span class="c7">%on the objects</span>
-
-<span class="c9">image3=imcomplement(image2);</span><span class="c7"> % reverse the black and white</span>
-
-<span class="c9">[labels,numlabels]=bwlabel(image3);</span><span class="c19 c48"> </span><span class="c19 c44">% to label our image to identify the objects</span>
-
-<span class="c29 c19">   </span>
-
-<span class="c19 c44">% FOR LOOPING to take total area for each different stat.</span>
-
-<span class="c3">total_area = 0;</span>
-
-<span class="c29 c19">   </span>
-
-<span class="c9">for  stat = 1 :</span> <span class="c9">numlabels</span><span class="c9"> </span><span class="c7">% to give each stat</span>
-
-<span class="c9">total_area = total_area + food_area(labels,stat);</span>
-
-<span class="c19 c44">% calculate each area of items by using food_area function</span>
-
-<span class="c9">end</span>
-
-<span class="c9">end</span>
-
-<span class="c24 c68">*************************** food_area function **********************************</span>
-
-<span class="c3">function f = give_area(labels,wanted_stats)</span>
-
-<span class="c9">stats = regionprops(labels, 'all');</span><span class="c7"> % to query all the properties of all BLOBs</span>
-
-<span class="c9">stats(wanted_stats);</span><span class="c7"> % to take the desired object</span>
-
-<span class="c29 c19"> </span>
-
-<span class="c9">f = stats(wanted_stats).Area);</span>
-
-<span class="c7">% the formula to calculate the area of the object</span>
-
-<span class="c9">end</span>
-
-<span class="c24 c68">*********************************  end of code  ***********************************</span>
-
-<span class="c1"></span>
-
-## <span class="c20">Ultrasonic Sensor</span>
-
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 459.15px; height: 295.17px;">![](images/image1.png)</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 146.50px; height: 112.09px;">![](images/image6.jpg)</span>
-
-<span class="c19">This is to see whether the ultrasonic sensor can see the obstacle from the distance less than 30 centimeters. As you can see above, the distance between the obstacle and the sensor is 4 centimeter.</span>
-
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 462.50px; height: 309.16px;">![](images/image5.png)</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 147.00px; height: 95.50px;">![](images/image9.jpg)</span>
-
-<span class="c19">This is to see whether the ultrasonic sensor can see the obstacle from a distance of 30 centimeters. As you can see above, the distance between the obstacle and the sensor is 30 centimeter.</span>
-
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 454.50px; height: 308.19px;">![](images/image4.png)</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 150.56px; height: 113.50px;">![](images/image21.jpg)</span>
-
-<span class="c19">This is to see whether the ultrasonic sensor can see the obstacle from a distance of more than 30 centimeters. As you can see above, the distance between the obstacle and the sensor is 54 centimeters.</span>
-
-<span class="c1"></span>
-
-<span class="c24 c68">*********************** basic code to read distance ***************************</span>
-
-<span class="c19 c23">function</span><span class="c19 c48"> </span><span class="c3">distance = sonicReading()</span>
-
-<span class="c19 c48">   </span><span class="c9"> </span><span class="c9">myev3</span><span class="c9"> = legoev3(</span><span class="c19 c46">'USB'</span><span class="c9">);</span><span class="c19"> </span><span class="c7">% to open a new connection to a EV3 robot</span>
-
-<span class="c29 c19">   </span>
-
-<span class="c19 c48"></span> <span class="c19 c23">while</span><span class="c9"> 1</span>
-
-<span class="c19 c48"></span> <span class="c9">mysonicsensor</span><span class="c9"> = sonicSensor(myev3);</span><span class="c19 c48"> </span><span class="c7">% to create an object</span>
-
-<span class="c19 c48">       </span><span class="c9"> distance = readDistance(</span><span class="c9">mysonicsensor</span><span class="c9">);</span><span class="c19 c48"> </span><span class="c7">% to read the samples and to store it  </span>
-
-<span class="c19 c48"></span> <span class="c84 c19 c23">end</span>
-
-<span class="c19 c23 c84">end</span>
-
-<span class="c68">********************************** end of code **********************************</span>
-
-## <span class="c20">EV3 Motor</span>
-
-<span class="c24 c19">The below code implements the opening and closing mechanism for the animal feed using the motor from the EV3 robot. This code opens and closes the mechanism based on a time value calculated in another function so we can dynamically control the amount of food distributed at a given time based on the behaviour of a domesticated animal.</span>
-
-<span class="c24 c68">************************************* code *************************************</span>
-
-<span class="c24 c19"></span>
-
-<span class="c19 c23">function</span><span class="c19"> test = motorTest(calcTime)</span>
-
-<span class="c19">myev3</span><span class="c19"> = legoev3(</span><span class="c19 c46">'USB'</span><span class="c19">);            </span><span class="c19 c44">% create EV3 object to connect to robot</span>
-
-<span class="c19">mymotor = motor(myev3,</span><span class="c19 c46">'A'</span><span class="c19">);    </span><span class="c19 c44">% connecting to motor in port A</span>
-
-<span class="c24 c19">resetRotation(mymotor)</span>
-
-<span class="c24 c19"></span>
-
-<span class="c19">mymotor.Speed = 5;</span> <span class="c19 c44">% speed for opening</span>
-
-<span class="c24 c19">start(mymotor);</span>
-
-<span class="c19">pause(calcTime);                          </span><span class="c19 c44">% wait time for motor operation</span>
-
-<span class="c24 c19">stop(mymotor);</span>
-
-<span class="c24 c19"></span>
-
-<span class="c19">mymotor.Speed = -5;                  </span><span class="c19 c44">% speed for closing</span>
-
-<span class="c24 c19">start(mymotor);</span>
-
-<span class="c19">pause(calcTime);                        </span><span class="c19 c44">% wait time for motor operation</span>
-
-<span class="c24 c19">stop(mymotor);</span>
-
-<span class="c19 c23">end</span>
-
-<span class="c24 c68">********************************** end of code **********************************</span>
-
-## <span class="c20"></span>
-
-
-*   # <span class="c62">References</span>
-
-<span class="c3">Cividjian, N. (2017). Pervasive computing: engineering smart systems. Amsterdam, The Netherlands: Springer.</span>
 
 <div>
 
@@ -808,7 +628,7 @@
 
 <div>
 
-[[1]](#ftnt_ref1)<span class="c52"> </span><span class="c69 c25">[http://bit.ly/2YO56DH](https://www.google.com/url?q=http://bit.ly/2YO56DH&sa=D&ust=1577109197918000)</span><span class="c25"> </span>
+[[1]](#ftnt_ref1)<span class="c52"> </span><span class="c69 c25">[1](http://bit.ly/2YO56DH)</span><span class="c25"> </span>
 
 </div>
 
