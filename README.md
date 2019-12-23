@@ -10,11 +10,11 @@
 
 <span class="c40 c35">NAMES:</span>
 
-* <span class="c24 c27">* Boipelo Hlatshwayo</span> 
+* <span class="c24 c27">Boipelo Hlatshwayo</span> 
 
-<span class="c24 c27">* M. Bahadir Kucuk</span>
+*<span class="c24 c27">M. Bahadir Kucuk</span>
 
-<span class="c27">* Necmettin Calibasi</span>
+*<span class="c27">* Necmettin Calibasi</span>
 
 <span class="c29 c98 c99"></span>
 
@@ -24,15 +24,15 @@
 
 <span class="c84 c98 c106"></span>
 
-<span class="c82">Table of Contents</span>
+<span class="c150">Table of Contents</span><span class="c71">
 
-<span class="c91">Introduction</span><span class="c109"> 
+*<span class="c91">Introduction</span><span class="c109"> 
 
-<span class="c26">[Literature Study](#h.84p8h3zhs022)</span><span class="c26">        </span>
-<span class="c26">[Concept of Operations](#h.x49zvbqgmufv)</span><span class="c26">        </span>
-<span class="c21">[Product Mission Statement](#h.qh2rm9yo5rth)</span><span class="c21">        </span>
+*<span class="c26">Literature Study</span><span class="c26">        </span>
+*<span class="c26">Concept of Operations</span><span class="c26">        </span>
+*<span class="c21">Product Mission Statement</span><span class="c21">        </span>
 
-<span class="c21">[System Block Diagram](#h.qh2rm9yo5rth)</span><span class="c21">        </span>
+*<span class="c21">System Block Diagram</span><span class="c21">        </span>
 
 <span class="c21">[User Scenarios](#h.qh2rm9yo5rth)</span><span class="c21">        </span>
 <span class="c21">[Use Case Diagram](#h.qh2rm9yo5rth)</span><span class="c21">        </span>
