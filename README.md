@@ -29,6 +29,7 @@
 <span class="c71"></span>
 
 ## <span class="c150">PROJECT DEMO</span><span class="c71">
+###### <span class="c84 c98 c99 c97">You can watch the video of the project by clicking the image below.</span>
 [![PROJECT DEMO](https://img.youtube.com/vi/0O134oq8hC8/0.jpg)](https://www.youtube.com/watch?v=0O134oq8hC8)
 
 <span class="c84 c98 c106"></span>
