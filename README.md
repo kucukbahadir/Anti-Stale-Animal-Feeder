@@ -231,7 +231,9 @@
 
 # <span class="c82">System</span> <span>D</span><span class="c82">esign</span>
 
-<span class="c20">Components</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 180.77px; height: 239.15px;">![](images/image20.png)</span>
+<span class="c20">Components</span>
+
+<span style="overflow: hidden; display: block; margin-left: auto; margin-right: auto; width: 50%; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);width: 208.00px; height: 208.00px;">![](images/image20.png)</span>
 
 <span class="c25">The entire project is not too complex. At this stage the identified resources are:</span>
 
