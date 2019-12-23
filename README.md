@@ -29,8 +29,16 @@
 <span class="c71"></span>
 
 ## <span class="c150">PROJECT DEMO</span><span class="c71">
-###### <span class="c84 c98 c99 c97">You can watch the video of the project by clicking the image below.</span>
+ 
+###### <span class="c84 c98 c99 c97">You can watch the video of the demo project with devices by clicking the image below.</span>
 [![PROJECT DEMO](https://img.youtube.com/vi/0O134oq8hC8/0.jpg)](https://www.youtube.com/watch?v=0O134oq8hC8)
+
+###### <span class="c84 c98 c99 c97">You can watch the video of the demo project without devices by clicking the image below.</span>
+[![PROJECT DEMO](https://img.youtube.com/vi/6raTvE7CC2g/0.jpg)](https://www.youtube.com/watch?v=6raTvE7CC2g)
+
+###### <span class="c84 c98 c99 c97">You can watch the video of project presentation by clicking the image below.</span>
+[![PROJECT DEMO](https://img.youtube.com/vi/pxE4QkRCkyE/0.jpg)](https://www.youtube.com/watch?v=pxE4QkRCkyE)
+
 
 <span class="c84 c98 c106"></span>
 
@@ -267,13 +275,13 @@
 
 <span class="c25">After image processing, the area of labelled items in the images is calculated with the help of the matlab built in function "regionprops". Having the area of foods in the image, the running time for the motor that gives food is calculated. The steps for each process and all system pseudo code and code can be reached in the appendix.</span>
 
-*   # <span class="c62">Testing</span>
+# <span class="c62">Testing</span>
 
 <span class="c25">The system is tested many times. By doing that, the parts that do not work correctly are changed related to the code. Related to the image process testing, you can see the confusion matrix below, which shows in which cases the image process does not calculate food area correctly.</span>
 
-*   ## <span class="c20">Performance Classifier</span>
+## <span class="c20">Performance Classifier</span>
 
-*   ##### <span class="c67">Confusion Matrix</span>
+##### <span class="c67">Confusion Matrix</span>
 
 <span class="c18"></span>
 
@@ -391,9 +399,9 @@
 
 <span>The demo of the project can be reached by this link</span><sup>[[2]](#ftnt2)</sup><span>.</span>
 
-*   # <span class="c62">Evaluation</span>
+# <span class="c62">Evaluation</span>
 
-*   ## <span class="c20">Reflection</span>
+## <span class="c20">Reflection</span>
 
 <span class="c6">The team worked very well together and on some occasions we did bump heads when we encountered logical difficulties regarding the problems we needed to solve. We were efficient in resolving such matters by presenting all our solutions to the group and using the one we thought would yield the best outcome. In short, we realized that solving problems is difficult, especially when there are various ways of solving the same problem. Communication at times was at a deficit regarding our backgrounds but our success reinforced team morale after each challenge we faced.</span>
 
