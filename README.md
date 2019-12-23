@@ -239,7 +239,7 @@
 
 # <span class="c82">System</span> <span>D</span><span class="c82">esign</span>
 
-<span class="c20">Components</span>
+## <span class="c20">Components</span>
 
 <span style="overflow: hidden; display: block; margin-left: auto; margin-right: auto; width: 50%; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);width: 208.00px; height: 208.00px;">![](images/image20.png)</span>
 
@@ -422,7 +422,7 @@
 
 ## <span>Schedule</span>
 
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 624.00px; height: 350.67px;">![](images/image18.png)</span>
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: auto; height: auto;">![](images/image18.png)</span>
 
 ## <span class="c20">Task Division</span>
 
