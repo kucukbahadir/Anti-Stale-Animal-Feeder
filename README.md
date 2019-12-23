@@ -28,6 +28,7 @@
 <span class="c29 c98 c99"></span>
 <span class="c71"></span>
 
+[![PROJECT DEMO](https://img.youtube.com/vi/0O134oq8hC8/0.jpg)](https://www.youtube.com/watch?v=0O134oq8hC8)
 
 <span class="c84 c98 c106"></span>
 
@@ -616,7 +617,6 @@
 
 * * *
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/m3oE9AzdI0w/0.jpg)](https://www.youtube.com/watch?v=m3oE9AzdI0w)
 
 
 <div>
