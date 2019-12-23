@@ -10,7 +10,7 @@
 
 <span class="c40 c35">NAMES:</span>
 
-<span class="c24 c27">* Boipelo Hlatshwayo</span> 
+* <span class="c24 c27">* Boipelo Hlatshwayo</span> 
 
 <span class="c24 c27">* M. Bahadir Kucuk</span>
 
