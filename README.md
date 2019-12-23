@@ -2,7 +2,7 @@
 # <span class="c75 c97 c107">Project Report</span>
 
 
-# <span style="overflow: hidden; display: block; margin-left: auto; margin-right: auto; width: 50%; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 208.00px; height: 208.00px;">![](images/image16.png)</span>
+<span style="overflow: hidden; display: block; margin-left: auto; margin-right: auto; width: 50%; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 208.00px; height: 208.00px;">![](images/image16.png)</span>
 
 ##### <span class="c40 c35">NAMES:</span>
 
@@ -41,7 +41,7 @@
   * <span class="c21">Use Case Diagram</span><span class="c21">        </span>
 
 * <span class="c26">System Requirements</span><span class="c26">        </span>
-  * <span class="c21">Functional Requirements</span><span class="c21">        </span><span class="c21"</span>
+  * <span class="c21">Functional Requirements</span><span class="c21">        </span><span class="c21"></span>
   * <span class="c21">Non-Functional</span><span class="c21">        </span><span class="c21"></span>
   * <span class="c21">Privacy/Safety concerns</span><span class="c21">        </span><span class="c21"></span>
   * <span class="c21">Constraints</span><span class="c21">        </span><span class="c21"></span>
@@ -49,10 +49,8 @@
 * <span class="c91">System Design</span><span class="c109">        </span><span class="c91"></span>
 
   * <span class="c21">Components</span><span class="c21">        </span><span class="c21"></span>
-
   * <span class="c21">Type of Processing</span><span class="c21">        </span><span class="c21"></span>
-
-* <span class="c21">Classification</span><span class="c21">        </span><span class="c21"></span>
+  * <span class="c21">Classification</span><span class="c21">        </span><span class="c21"></span>
 
 * <span class="c26">Testing</span><span class="c26">        </span><span class="c26"></span>
   * <span class="c21">Performance Classifier</span><span class="c21">        </span><span class="c21"></span>
@@ -67,10 +65,7 @@
   * <span class="c21">Task Division</span><span class="c21">        </span><span class="c21"></span>
 
 * <span class="c26">Appendix</span><span class="c26">        </span><span class="c26"></span>
-  * <span class="c21">Image Processing</span><span class="c21">        </span><span class="c21">[</span>
-  * <span class="c21">Ultrasonic Sensor</span><span class="c21">        </span><span class="c21"></span>
-  * <span class="c21">EV3 Motor</span><span class="c21">        </span><span class="c21"></span>
-  * <span class="c21">All System Code</span><span class="c21">        </span><span class="c21"></span>
+  * <span class="c21">Pseudo Code</span><span class="c21">        </span><span class="c21">[</span>
 
 * <span class="c26">Resources</span><span class="c26">        </span><span class="c26"></span>
 
@@ -615,31 +610,21 @@
 <span class="c9">End</span>
 
 
-
-
-
-<div>
-
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 817.00px; height: 43.00px;">![](images/image3.png "footer")</span>
-
-</div>
-
 * * *
 
 <div>
 
-[[1]](#ftnt_ref1)<span class="c52"> </span><span class="c69 c25">[1](http://bit.ly/2YO56DH)</span><span class="c25"> </span>
+[[1]]<a class="c52"> </span><span class="c69 c25">[1](http://bit.ly/2YO56DH)</a><span class="c25"> </span>
 
 </div>
 
 <div>
 
-[[2]](#ftnt_ref2)<span class="c52"> </span><span class="c69 c19">[http://bit.ly/2YRUNOP](https://www.google.com/url?q=http://bit.ly/2YRUNOP&sa=D&ust=1577109197917000)</span>
+[[2]]<span class="c52"> </span><span class="c69 c19">[http://bit.ly/2YRUNOP](https://www.google.com/url?q=http://bit.ly/2YRUNOP&sa=D&ust=1577109197917000)</span>
 
 </div>
 
 <div>
-
 [[3]](#ftnt_ref3)<span class="c52"> </span><span class="c52 c69">[http://bit.ly/2RSyOG4](https://www.google.com/url?q=http://bit.ly/2RSyOG4&sa=D&ust=1577109197918000)</span><span class="c22"> </span>
 
 </div>
