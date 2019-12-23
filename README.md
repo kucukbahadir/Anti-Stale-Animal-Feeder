@@ -1,32 +1,31 @@
 
-## <span class="c75 c97 c107">Project Report</span>
+# <span class="c75 c97 c107">Project Report</span>
 
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 208.00px; height: 208.00px;">![](images/image16.png)</span>
 
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 47.00px; height: 6.00px;">![](images/image8.png "short line")</span>
-
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 624.00px; height: 185.33px;">![](images/image13.png)</span>
-
-#### <span class="c40 c35">NAMES:</span>
+##### <span class="c40 c35">NAMES:</span>
 
 * <span class="c24 c27">Boipelo Hlatshwayo</span> 
 
 * <span class="c24 c27">M. Bahadir Kucuk</span>
 
-* <span class="c27">* Necmettin Calibasi</span>
+* <span class="c27">Necmettin Calibasi</span>
 
-<span class="c29 c98 c99"></span>
-<span class="c29 c98 c99"></span>
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 624.00px; height: 185.33px;">![](images/image13.png)</span>
 
-** <span class="c84 c98 c99 c97">15th December, 2019</span> **
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 47.00px; height: 6.00px;">![](images/image8.png "short line")</span>
+
+###### <span class="c84 c98 c99 c97">15th December, 2019</span>
+
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 47.00px; height: 6.00px;">![](images/image8.png "short line")</span>
 
 <span class="c29 c98 c99"></span>
 <span class="c71"></span>
 
 <span class="c84 c98 c106"></span>
 
-<span class="c150">Table of Contents</span><span class="c71">
+## <span class="c150">Table of Contents</span><span class="c71">
 
 * <span class="c91">Introduction</span><span class="c109"> 
 
@@ -42,9 +41,9 @@
   * <span class="c21">Functional Requirements</span><span class="c21">        </span><span class="c21"</span>
   * <span class="c21">Non-Functional</span><span class="c21">        </span><span class="c21"></span>
   * <span class="c21">Privacy/Safety concerns</span><span class="c21">        </span><span class="c21"></span>
-  * <span class="c21">Constraints</span><span class="c21">        </span><span class="c21">[8](#h.sc02592okb0h)</span>
+  * <span class="c21">Constraints</span><span class="c21">        </span><span class="c21"></span>
 
-* <span class="c91">System Design</span><span class="c109">        </span><span class="c91">9</span>
+* <span class="c91">System Design</span><span class="c109">        </span><span class="c91"></span>
 
   * <span class="c21">Components</span><span class="c21">        </span><span class="c21"></span>
 
@@ -54,32 +53,33 @@
 
 * <span class="c26">Testing</span><span class="c26">        </span><span class="c26"></span>
 
-  * <span class="c21">Performance Classifier</span><span class="c21">        </span><span class="c21">[</span>
+  * <span class="c21">Performance Classifier</span><span class="c21">        </span><span class="c21"></span>
   * <span class="c21">Performance Algorithm</span><span class="c21">        </span><span class="c21"></span>
 
-*<span class="c26">[Project Demo](#h.wxgoiwxi5suy)</span><span class="c26">        </span><span class="c26">[12](#h.wxgoiwxi5suy)</span>
+* <span class="c26">Project Demo</span><span class="c26">        </span><span class="c26"></span>
 
-*<span class="c26">[Evaluation](#h.lmfkqg8tlvut)</span><span class="c26">        </span><span class="c26">[13](#h.lmfkqg8tlvut)</span>
 
-*<span class="c21">[Reflection](#h.may5qq2qvle3)</span><span class="c21">        </span><span class="c21">[13](#h.may5qq2qvle3)</span>
+* <span class="c26">Evaluation</span><span class="c26">        </span><span class="c26"></span>
 
-*<span class="c21">[Risk Analysis](#h.51i4s35l62sp)</span><span class="c21">        </span><span class="c21">[14](#h.51i4s35l62sp)</span>
+* <span class="c21">Reflection</span><span class="c21">        </span><span class="c21"></span>
 
-*<span class="c21">[Schedule](#h.cc5p7zg2cd7o)</span><span class="c21">        </span><span class="c21">[14](#h.cc5p7zg2cd7o)</span>
+* <span class="c21">Risk Analysis</span><span class="c21">        </span><span class="c21"></span>
 
-*<span class="c21">[Task Division](#h.23r98aogzokj)</span><span class="c21">        </span><span class="c21">[15](#h.23r98aogzokj)</span>
+* <span class="c21">Schedule</span><span class="c21">        </span><span class="c21"></span>
 
-*<span class="c26">[Appendix](#h.7zqfprkfwjtv)</span><span class="c26">        </span><span class="c26">[15](#h.7zqfprkfwjtv)</span>
+*<span class="c21">Task Division</span><span class="c21">        </span><span class="c21"></span>
+
+*<span class="c26">Appendix</span><span class="c26">        </span><span class="c26">15</span>
 
 *<span class="c21">[Image Processing](#h.sghaa2q67adl)</span><span class="c21">        </span><span class="c21">[15](#h.sghaa2q67adl)</span>
 
-<span class="c21">[Ultrasonic Sensor](#h.nqsjebc2kqp8)</span><span class="c21">        </span><span class="c21">[21](#h.nqsjebc2kqp8)</span>
+<span class="c21">Ultrasonic Sensor</span><span class="c21">        </span><span class="c21"></span>
 
-<span class="c21">[EV3 Motor](#h.nqsjebc2kqp8)</span><span class="c21">        </span><span class="c21">[21](#h.nqsjebc2kqp8)</span>
+<span class="c21">EV3 Motor</span><span class="c21">        </span><span class="c21"></span>
 
-<span class="c21">[All System Code](#h.nqsjebc2kqp8)</span><span class="c21">        </span><span class="c21">[22](#h.nqsjebc2kqp8)</span>
+<span class="c21">All System Code</span><span class="c21">        </span><span class="c21"></span>
 
-<span class="c26">[Resources](#h.5o53q8s4pdj2)</span><span class="c26">        </span><span class="c26">[27](#h.5o53q8s4pdj2)</span>
+<span class="c26">Resources</span><span class="c26">        </span><span class="c26"></span>
 
 # <span>Introduction</span>
 
