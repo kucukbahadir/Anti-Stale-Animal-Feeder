@@ -2,7 +2,7 @@
 # <span class="c75 c97 c107">Project Report</span>
 
 
-<span style="overflow: hidden; display: block; margin-left: auto; margin-right: auto; width: 50%; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 208.00px; height: 208.00px;">![](images/image16.png)</span>
+###### <span style="overflow: hidden; display: block; margin-left: auto; margin-right: auto; width: 50%; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 208.00px; height: 208.00px;">![](images/image16.png)</span>
 
 ##### <span class="c40 c35">NAMES:</span>
 
@@ -12,18 +12,18 @@
 
 * <span class="c27">Necmettin Calibasi</span>
 
+<span class="c29 c98 c99"></span>
+<span class="c71"></span>
+
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 624.00px; height: 185.33px;">![](images/image13.png)</span>
 
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 47.00px; height: 6.00px;">![](images/image8.png "short line")</span>
+
 
 ###### <span class="c84 c98 c99 c97">15th December, 2019</span>
 
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 47.00px; height: 6.00px;">![](images/image8.png "short line")</span>
+<span class="c29 c98 c99"></span>
+<span class="c71"></span>
 
-<span class="c29 c98 c99"></span>
-<span class="c71"></span>
-<span class="c29 c98 c99"></span>
-<span class="c71"></span>
 
 <span class="c84 c98 c106"></span>
 
@@ -65,7 +65,7 @@
   * <span class="c21">Task Division</span><span class="c21">        </span><span class="c21"></span>
 
 * <span class="c26">Appendix</span><span class="c26">        </span><span class="c26"></span>
-  * <span class="c21">Pseudo Code</span><span class="c21">        </span><span class="c21">[</span>
+  * <span class="c21">Pseudo Code</span><span class="c21">        </span><span class="c21"></span>
 
 * <span class="c26">Resources</span><span class="c26">        </span><span class="c26"></span>
 
@@ -443,7 +443,7 @@
 
 # <span class="c62">Appendix</span>
 
-<span class="c37 c27">Pseudo Code</span>
+#### <span class="c37 c27">Pseudo Code</span>
 
 <span class="c24 c68">******************************Motor Control*********************************</span>
 
@@ -625,6 +625,6 @@
 </div>
 
 <div>
-[[3]](#ftnt_ref3)<span class="c52"> </span><span class="c52 c69">[http://bit.ly/2RSyOG4](https://www.google.com/url?q=http://bit.ly/2RSyOG4&sa=D&ust=1577109197918000)</span><span class="c22"> </span>
+[[3]]<span class="c52"> </span><span class="c52 c69">[http://bit.ly/2RSyOG4](https://www.google.com/url?q=http://bit.ly/2RSyOG4&sa=D&ust=1577109197918000)</span><span class="c22"> </span>
 
 </div>
